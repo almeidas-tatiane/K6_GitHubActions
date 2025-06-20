@@ -18,3 +18,5 @@ Repository with K6 projects to be executed at GitHubActions
 - After the git push, go to GitHub, click in the K6_GitHubActions repository, and click on Actions tab;
 - You'll see a workflow in progress.
 
+## 🙏 Usage and Credit Notice
+To help strengthen our community, I would appreciate it if you could mention my [GitHub](https://github.com/almeidas-tatiane) and [LinkedIn](https://www.linkedin.com/in/tatianealmeida/) when using this material.
