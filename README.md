@@ -19,6 +19,8 @@ Repository with K6 projects to be executed at GitHubActions
 - You'll see a workflow in progress.
 
 ## 🙏 Usage and Credit Notice
-To help strengthen our community, I would appreciate it if you could mention my [GitHub](https://github.com/almeidas-tatiane) and [LinkedIn](https://www.linkedin.com/in/tatianealmeida/) when using this material.
+If you find this project useful, feel free to use it and adapt it.
 
-⭐ If this project helped you, consider giving it a star!
+⭐ If it helped you, consider giving it a star!  
+🔗 Credits are appreciated: [GitHub](https://github.com/almeidas-tatiane) and [LinkedIn](https://www.linkedin.com/in/tatianealmeida/) when using this material.
+
